@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leeffff/blk-react-app.git"
+    "url": "git+https://github.com/creativetimofficial/blk-design-system-react.git"
   },
   "keywords": [
     "react",
@@ -28,7 +28,7 @@
   "author": "Creative Tim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leeffff/blk-react-app/issues"
+    "url": "https://github.com/creativetimofficial/blk-design-system-react/issues"
   },
   "homepage": "https://blk-react-app.herokuapp.com/",
   "dependencies": {
